@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\bin\Debug\net6.0\ЗАДАЧА.exe
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\bin\Debug\net6.0\ЗАДАЧА.deps.json
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\bin\Debug\net6.0\ЗАДАЧА.runtimeconfig.json
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\bin\Debug\net6.0\ЗАДАЧА.dll
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\bin\Debug\net6.0\ЗАДАЧА.pdb
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\obj\Debug\net6.0\ЗАДАЧА.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\obj\Debug\net6.0\ЗАДАЧА.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\obj\Debug\net6.0\ЗАДАЧА.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\obj\Debug\net6.0\ЗАДАЧА.AssemblyInfo.cs
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\obj\Debug\net6.0\ЗАДАЧА.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\obj\Debug\net6.0\ЗАДАЧА.dll
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\obj\Debug\net6.0\refint\ЗАДАЧА.dll
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\obj\Debug\net6.0\ЗАДАЧА.pdb
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\obj\Debug\net6.0\ЗАДАЧА.genruntimeconfig.cache
+C:\Users\user\Desktop\БЛОК 1\ЗАДАЧА\obj\Debug\net6.0\ref\ЗАДАЧА.dll
