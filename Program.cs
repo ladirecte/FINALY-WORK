@@ -1,4 +1,4 @@
-﻿string[] array = new string[4] { "hi", "Hello", "Star", "23" };
+﻿string[] array = new string[4] { "hi", "Hello", "Star", "33" };
 int arrayLength = array.Length;
 int min = 3; 
 int sizeNewArray = CountElementTrue(array);
