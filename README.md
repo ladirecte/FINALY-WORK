@@ -15,5 +15,5 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
 
-
+![image](https://user-images.githubusercontent.com/115096428/206008166-4ec41f03-32ce-4cf4-a603-91243ce0aee2.png)
 
